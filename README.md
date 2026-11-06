@@ -33,7 +33,7 @@ Instead of manually opening a browser and signing in each time, the script:
 ## Setup Instructions
 1. **Clone this repo**
    ```bash
-   git clone https://github.com/ary4m4n03/Wifi-Auto-Login-Script.git
+   git clone https://github.com/aryaman0303/Wifi-Auto-Login-Script.git
 2. **Configure the script:**  
    - Open the autologinautomated.ps1 file and modify the variables in the CONFIG section at the top:
      - $loginPageUrl: Replace the placeholder with the full URL you are redirected to when you first connect to the WiFi.  
